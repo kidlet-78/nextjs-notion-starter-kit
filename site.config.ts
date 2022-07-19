@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'hcgj',
   domain: 'https://www.notion.so/af6f880e97bf4d489119d699a52437d2',
-  author: 'kidlet',
+  author: '恒创国际',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
